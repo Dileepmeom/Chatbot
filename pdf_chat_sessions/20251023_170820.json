@@ -1,0 +1,62 @@
+{
+  "id": "20251023_170820",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is the Start-up Procedure"
+    },
+    {
+      "role": "assistant",
+      "content": "According to the provided documentation, the Start-up Procedure is as follows:\n\n1. Observe Disc Position Indicator to ensure the disc inside the valve is fully closed and the Hydro-pneumatic and Oil Reservoir tanks are in a vertical position. Check oil levels in these tanks and fill, if necessary, up to the street elbow level located on the side of the tank with oil (See 'Oil Filling Procedure').\n2. Open each Flow Control Valve (#64) adjacent to the Cylinder (#63) as follows:\n\t* a. Open the top Flow Control Valve which controls the rate of opening, 4 turns counterclockwise from fully closed.\n\t* b. Open the bottom Flow Control Valve which controls the rate of closing, only 2½ turns counter-clockwise from fully closed position (See 'Adjustment of Flow Control Valve').\n3. Turn Cushion Adjustment Screw, in the rod end of cylinder, 1½ turns counter-clockwise from fully closed position (See 'Operation of Internal Cushion').\n4. Set Timing Valve Cam (#94) so that the arrow on Cam is pointing to the center line of the Timing Valve Roller while the disc is in the closed position (See 'Timing Valve Operation').\n5. Manually or electrically turn the Slip Gear Operator, to set the Disc Position Indicator in the check position (See 'All Telling Indicator').\n6. Pressurize Hydro-pneumatic Tank to 15 psi for first tests.\n7. Start pump and observe rate of disc opening time.\n8. Stop pump and observe rate of disc closing time.\n9. Repeat above trial runs and make necessary adjustments to Timing Valve, Flow Control Valve and Cylinder Cushion to establish smooth three stage closure (See 'Adjustment of Flow Control Valve').\n10. When a shutdown sequence is established resulting in a closure of the disc without excessive pressure surge or check or shock, lock each Flow Control Valve knob in place; lock the set screws on the Timing Valve Cam in place to prevent tampering of setting.\n\nNote: This procedure is documented on PAGE 9 END and PAGE 10 END.\n\n⚠️ **Note**: Found 3 document chunks, but none met the minimum similarity threshold of 60.0%. You may want to lower the similarity threshold in the sidebar or try different equipment filters.",
+      "sources": []
+    },
+    {
+      "role": "user",
+      "content": "what is the oil change procedure"
+    },
+    {
+      "role": "assistant",
+      "content": "According to the provided documentation (PAGE 13 END), the oil change procedure is as follows:\n\n1. Check the condition of the oil by inserting a tube into the oil hole and taking up a little oil from the bottom. If it contains too much water or is heavily emulsified, change the oil.\n2. Change the oil if it is heavily emulsified (cream-like) or if the oil housing contains free water. Check again one week after changing the oil.\n\nAdditionally, according to the procedure on PAGE 14 END:\n\n1. Unscrew the oil housing screw marked 'oil out' and empty the oil through this hole.\n2. Pump out the old oil using an oil drainage pump (83 95 42 or equivalent).\n3. Install the 'oil out' screw and fill with new oil through the other hole, making sure to add air for pressure equalization.\n4. Use a paraffin oil with viscosity close to ISO VG15 (e.g., Mobile Whiterex 309) or a mineral oil with viscosity up to ISO VG32.\n\nPlease note that it is also recommended to replace the O-rings under the oil housing screws with new ones during this procedure.",
+      "sources": [
+        {
+          "page": "14",
+          "heading": "OIL CHANGE",
+          "similarity_score": 0.5191824436187744,
+          "excerpt": "...[Previous context: | Mode of operation | Inspection | Shop overhaul |\n|-----------------|---------------------|----------------|-----------------|\n| < _70°C (160°F) | Continuous | 1000 hours | 4000...",
+          "equipment_type": "Submersible Pump",
+          "make": "Flygt",
+          "model": "Series 3126",
+          "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md",
+          "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+          "page_number": "1"
+        },
+        {
+          "page": "14",
+          "heading": "3126 / 3140 / 3152 / 3170 / 3201 / 3300",
+          "similarity_score": 0.4870496988296509,
+          "excerpt": "...[Previous context: ## 3170 / 3201 / 3300\n\n1. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole. 2. Pump out the oil. Using the oil drainage pu...",
+          "equipment_type": "Submersible Pump",
+          "make": "Flygt",
+          "model": "Series 3126",
+          "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md",
+          "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+          "page_number": "1"
+        },
+        {
+          "page": "11",
+          "heading": "Oil Filling Procedure (dashpot piping partially drained of oil)",
+          "similarity_score": 0.46545344591140747,
+          "excerpt": "...[Previous context: ## APCO CAC-8000 Automatic Control Check Valve]\n\nOil Filling Procedure (dashpot piping partially drained of oil)\n\nUse 'Mobil' DTE 24, Motor oil SAE 20 or Industrial oil #31.\n\n1. ...",
+          "equipment_type": "Control System",
+          "make": "Generic",
+          "model": "AC-8000",
+          "equipment_filename": "8000_automatic_control_check-full-with-serials.md",
+          "source_file": "8000_automatic_control_check-full-with-serials",
+          "page_number": "1"
+        }
+      ]
+    }
+  ],
+  "timestamp": "2025-10-23T17:10:16.447120",
+  "message_count": 4
+}

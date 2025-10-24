@@ -1,0 +1,1186 @@
+[
+  {
+    "chunk_text": "<!-- image -->",
+    "original_text": "<!-- image -->",
+    "token_count": 3,
+    "pages": [
+      1
+    ],
+    "heading": "",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 0,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: <!-- image -->]\n\n## Installation, care and maintenance 3126/3140/3152/3170/3201/3300\n\n892616/05\n\n<!-- image -->\n\n<!-- PAGE 1 END -->",
+    "original_text": "## Installation, care and maintenance 3126/3140/3152/3170/3201/3300\n\n892616/05\n\n<!-- image -->\n\n<!-- PAGE 1 END -->",
+    "token_count": 47,
+    "pages": [
+      1
+    ],
+    "heading": "Installation, care and maintenance 3126/3140/3152/3170/3201/3300",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 1,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Installation, care and maintenance 3126/3140/3152/3170/3201/3300\n\n892616/05\n\n<!-- image -->\n\n<!-- PAGE 1 END -->]\n\n## CONTENTS\n\n| Safety _________________________________ | 2 | Cable chart ____________________________ 9 |\n|---------------------------------------------|------------------------------------------|----------------------------------------------|\n| Data plate interpretation _______________ 3 | Transportation and storage ___________ | 12 |\n| Product description ___________________ 4 | Operation ______________________________ | 12 |\n| General design of a Flygt pump _______ 5 | Care and maintenance _________________ | 13 |\n| Installation ____________________________ 6 | Oil change _____________________________ | 14 |\n| Electrical connections _________________ 7 | Service log ____________________________ | 15 |",
+    "original_text": "## CONTENTS\n\n| Safety _________________________________ | 2 | Cable chart ____________________________ 9 |\n|---------------------------------------------|------------------------------------------|----------------------------------------------|\n| Data plate interpretation _______________ 3 | Transportation and storage ___________ | 12 |\n| Product description ___________________ 4 | Operation ______________________________ | 12 |\n| General design of a Flygt pump _______ 5 | Care and maintenance _________________ | 13 |\n| Installation ____________________________ 6 | Oil change _____________________________ | 14 |\n| Electrical connections _________________ 7 | Service log ____________________________ | 15 |",
+    "token_count": 162,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "CONTENTS",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 2,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "## SAFETY\n\nThis manual contains basic information on the installation, operating and maintenance and should be followed carefully. It is essential that these instructions are carefully read before installation or commissioning by both the installation crew as well as those responsible for operation or maintenance. The operating instructions should always be readily available at the location of the unit.",
+    "original_text": "## SAFETY\n\nThis manual contains basic information on the installation, operating and maintenance and should be followed carefully. It is essential that these instructions are carefully read before installation or commissioning by both the installation crew as well as those responsible for operation or maintenance. The operating instructions should always be readily available at the location of the unit.",
+    "token_count": 65,
+    "pages": [
+      2
+    ],
+    "heading": "SAFETY",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 3,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## SAFETY\n\nThis manual contains basic information on the installation, operating and maintenance and should be followed carefully. It is essential that these instructions are carefully read before installation or commissioning by both the installation crew as well as those responsible for operation or maintenance. The operating instructions should always be readily available at the location of the unit.]\n\n## Qualifications of personnel\n\nAn authorized (certified) electrician and mechanic shall carry out all work.",
+    "original_text": "## Qualifications of personnel\n\nAn authorized (certified) electrician and mechanic shall carry out all work.",
+    "token_count": 89,
+    "pages": [
+      2
+    ],
+    "heading": "Qualifications of personnel",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 4,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Qualifications of personnel\n\nAn authorized (certified) electrician and mechanic shall carry out all work.]\n\n## Safety regulations for the owner/operator\n\nAll government regulations, local health and safety codes shall be complied with.\n\nAll dangers due to electricity must be avoided (for details consult the regulations of your local electricity supply company).",
+    "original_text": "## Safety regulations for the owner/operator\n\nAll government regulations, local health and safety codes shall be complied with.\n\nAll dangers due to electricity must be avoided (for details consult the regulations of your local electricity supply company).",
+    "token_count": 67,
+    "pages": [
+      2
+    ],
+    "heading": "Safety regulations for the owner/operator",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 5,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Safety regulations for the owner/operator\n\nAll government regulations, local health and safety codes shall be complied with. All dangers due to electricity must be avoided (for details consult the regulations of your local electricity supply company).]\n\n## Unilateral modification and spare parts manufacturing\n\nModifications or changes to the unit/installation should only be carried out after consulting with ITT Flygt.\n\nOriginal spare parts and accessories authorized by the manufacturer are essential for compliance. The use of other parts can invalidate any claims for warranty or compensation.",
+    "original_text": "## Unilateral modification and spare parts manufacturing\n\nModifications or changes to the unit/installation should only be carried out after consulting with ITT Flygt.\n\nOriginal spare parts and accessories authorized by the manufacturer are essential for compliance. The use of other parts can invalidate any claims for warranty or compensation.",
+    "token_count": 107,
+    "pages": [
+      2
+    ],
+    "heading": "Unilateral modification and spare parts manufacturing",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 6,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Unilateral modification and spare parts manufacturing\n\nModifications or changes to the unit/installation should only be carried out after consulting with ITT Flygt. Original spare parts and accessories authorized by the manufacturer are essential for compliance. The use of other parts can invalidate any claims for warranty or compensation.]\n\n## Dismantling and re-assembly\n\nIf the pump has been used to pump hazardous media, care must be taken that, when draining the leakage, personnel and environment are not endangered.\n\nAll waste and emissions such as used coolant must be appropriately disposed of. Coolant spills must be cleaned up and emissions to the environment must be reported.\n\nThe pumping station must be kept tidy and in good order at all times.\n\nAll government regulations shall be observed.",
+    "original_text": "## Dismantling and re-assembly\n\nIf the pump has been used to pump hazardous media, care must be taken that, when draining the leakage, personnel and environment are not endangered.\n\nAll waste and emissions such as used coolant must be appropriately disposed of. Coolant spills must be cleaned up and emissions to the environment must be reported.\n\nThe pumping station must be kept tidy and in good order at all times.\n\nAll government regulations shall be observed.",
+    "token_count": 154,
+    "pages": [
+      2
+    ],
+    "heading": "Dismantling and re-assembly",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 7,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Dismantling and re-assembly\n\nIf the pump has been used to pump hazardous media, care must be taken that, when draining the leakage, personnel and environment are not endangered. All waste and emissions such as used coolant must be appropriately disposed of. Coolant spills must be cleaned up and emissions to the environment must be reported. The pumping station must be kept tidy and in good order at all times. All government regulations shall be observed.]\n\n## Identification of safety and warning symbols\n\n<!-- image -->\n\n<!-- image -->",
+    "original_text": "## Identification of safety and warning symbols\n\n<!-- image -->\n\n<!-- image -->",
+    "token_count": 109,
+    "pages": [
+      2
+    ],
+    "heading": "Identification of safety and warning symbols",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 8,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Identification of safety and warning symbols\n\n<!-- image -->\n\n<!-- image -->]\n\n## WARNING!",
+    "original_text": "## WARNING!",
+    "token_count": 22,
+    "pages": [
+      2
+    ],
+    "heading": "WARNING!",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 9,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## WARNING!]\n\n## General Danger:\n\nNon-observance given to safety instructions in this manual, which could cause danger to life have been specifically highlighted with this general danger symbol.",
+    "original_text": "## General Danger:\n\nNon-observance given to safety instructions in this manual, which could cause danger to life have been specifically highlighted with this general danger symbol.",
+    "token_count": 40,
+    "pages": [
+      2
+    ],
+    "heading": "General Danger:",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 10,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## General Danger:\n\nNon-observance given to safety instructions in this manual, which could cause danger to life have been specifically highlighted with this general danger symbol.]\n\n## High Voltage:\n\nThe presence of a dangerous voltage is identified with this safety symbol.\n\nNon-observance to this warning could damage the unit or affect its function\n\nThe pictures in this manual may differ somewhat from the delivered pump depending on the hydraulic end configuration.\n\n<!-- PAGE 2 END -->",
+    "original_text": "## High Voltage:\n\nThe presence of a dangerous voltage is identified with this safety symbol.\n\nNon-observance to this warning could damage the unit or affect its function\n\nThe pictures in this manual may differ somewhat from the delivered pump depending on the hydraulic end configuration.\n\n<!-- PAGE 2 END -->",
+    "token_count": 94,
+    "pages": [
+      2
+    ],
+    "heading": "High Voltage:",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 11,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## High Voltage:\n\nThe presence of a dangerous voltage is identified with this safety symbol. Non-observance to this warning could damage the unit or affect its function\n\nThe pictures in this manual may differ somewhat from the delivered pump depending on the hydraulic end configuration. <!-- PAGE 2 END -->]\n\n## DATA PLATE INTERPRETATION",
+    "original_text": "## DATA PLATE INTERPRETATION",
+    "token_count": 71,
+    "pages": [
+      3
+    ],
+    "heading": "DATA PLATE INTERPRETATION",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 12,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## DATA PLATE INTERPRETATION]\n\n## General data plate\n\n<!-- image -->",
+    "original_text": "## General data plate\n\n<!-- image -->",
+    "token_count": 21,
+    "pages": [
+      3
+    ],
+    "heading": "General data plate",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 13,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## General data plate\n\n<!-- image -->]\n\n## Approval plates\n\nThese approval plates apply to an explosion-proof submersible Flygt pump. The plates are used together with the general data plate on the pump.\n\nEN :\n\nEuropean Norm\n\nATEX Directive\n\nEN 50014, EN 50018, EN 1127-1\n\n- II 2 G EEx dII T4\n\n- I M 2 EEx dI\n\n<!-- image -->\n\nFM :\n\nFactory Mutual\n\nClass I Div. I Grp C and D\n\nClass II and III Div. I Grp E, F and G\n\n<!-- image -->\n\n- A Serial number\n- B Product code + Number\n- C Curve code / Propeller code\n- D Country of origin\n- E Product number\n- F Additional information\n- G Phase; Type of current; Frequency\n- H Rated voltage\n- I Thermal protection\n- J Thermal class\n- K Rated shaft power\n- L International standard\n- M Degree of protection\n- N Rated current\n- O Rated speed\n- P Max. submergence\n- Q Direction of rotation: L=left, R=right\n- R Duty class\n- S Duty factor\n- T Product weight\n- U Locked rotor code letter\n- V Power factor\n- X Max. ambient temperature\n- A Approval\n- B Approval authority + Approval Number\n- C Approval for Class I\n- D Approved drive unit\n- E Stall time\n- F Starting current / Rated current\n- G Duty class\n- H Duty factor\n- I Input power\n- J Rated speed\n- K Controller\n- L Additional information\n- M Max. ambient temperature\n- N Serial number\n- O ATEX marking\n\n<!-- PAGE 3 END -->",
+    "original_text": "## Approval plates\n\nThese approval plates apply to an explosion-proof submersible Flygt pump. The plates are used together with the general data plate on the pump.\n\nEN :\n\nEuropean Norm\n\nATEX Directive\n\nEN 50014, EN 50018, EN 1127-1\n\n- II 2 G EEx dII T4\n\n- I M 2 EEx dI\n\n<!-- image -->\n\nFM :\n\nFactory Mutual\n\nClass I Div. I Grp C and D\n\nClass II and III Div. I Grp E, F and G\n\n<!-- image -->\n\n- A Serial number\n- B Product code + Number\n- C Curve code / Propeller code\n- D Country of origin\n- E Product number\n- F Additional information\n- G Phase; Type of current; Frequency\n- H Rated voltage\n- I Thermal protection\n- J Thermal class\n- K Rated shaft power\n- L International standard\n- M Degree of protection\n- N Rated current\n- O Rated speed\n- P Max. submergence\n- Q Direction of rotation: L=left, R=right\n- R Duty class\n- S Duty factor\n- T Product weight\n- U Locked rotor code letter\n- V Power factor\n- X Max. ambient temperature\n- A Approval\n- B Approval authority + Approval Number\n- C Approval for Class I\n- D Approved drive unit\n- E Stall time\n- F Starting current / Rated current\n- G Duty class\n- H Duty factor\n- I Input power\n- J Rated speed\n- K Controller\n- L Additional information\n- M Max. ambient temperature\n- N Serial number\n- O ATEX marking\n\n<!-- PAGE 3 END -->",
+    "token_count": 367,
+    "pages": [
+      3
+    ],
+    "heading": "Approval plates",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 14,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ambient temperature\n- A Approval\n- B Approval authority + Approval Number\n- C Approval for Class I\n- D Approved drive unit\n- E Stall time\n- F Starting current / Rated current\n- G Duty class\n- H Duty factor\n- I Input power\n- J Rated speed\n- K Controller\n- L Additional information\n- M Max. ambient temperature\n- N Serial number\n- O ATEX marking\n\n<!-- PAGE 3 END -->]\n\n## Introduction\n\nThank you for buying a submersible Flygt pump. In this Installation, Care and Maintenance manual you will find general information on how to install and service the 3126, 3140, 3152, 3170, 3201 or 3300 pump to give it a long and reliable life. In the Parts List you will find all the specific technical data for your pump.",
+    "original_text": "## Introduction\n\nThank you for buying a submersible Flygt pump. In this Installation, Care and Maintenance manual you will find general information on how to install and service the 3126, 3140, 3152, 3170, 3201 or 3300 pump to give it a long and reliable life. In the Parts List you will find all the specific technical data for your pump.",
+    "token_count": 183,
+    "pages": [
+      4
+    ],
+    "heading": "Introduction",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 15,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Introduction\n\nThank you for buying a submersible Flygt pump. In this Installation, Care and Maintenance manual you will find general information on how to install and service the 3126, 3140, 3152, 3170, 3201 or 3300 pump to give it a long and reliable life. In the Parts List you will find all the specific technical data for your pump.]\n\n## Application\n\nThis Installation, Care and Maintenance manual applies to a submersible Flygt pump. If you have bought an Ex-approved pump (please see approval plate on your pump or Parts List) special handling instructions apply as described in this document.\n\nDepending on the hydraulic end, the pump is intended to be used for:\n\n- -pumping of waste water\n- -pumping of light liquid manure and urine\n- -pumping of sludge\n- -pumping of ground water\n- -pumping of sewage if the solids need to be cut into small pieces.\n\nThe pumps must not be used in highly corrosive liquids. See pH limits below.\n\nThe pump is available for permanent installation in a sump or portable installation with hose connection and stand.\n\nIn some applications, the pump is also available for a dry stationary installation on a base stand directly connected to the inlet and outlet lines.\n\nFor further information on applications, contact your nearest Flygt representative.",
+    "original_text": "## Application\n\nThis Installation, Care and Maintenance manual applies to a submersible Flygt pump. If you have bought an Ex-approved pump (please see approval plate on your pump or Parts List) special handling instructions apply as described in this document.\n\nDepending on the hydraulic end, the pump is intended to be used for:\n\n- -pumping of waste water\n- -pumping of light liquid manure and urine\n- -pumping of sludge\n- -pumping of ground water\n- -pumping of sewage if the solids need to be cut into small pieces.\n\nThe pumps must not be used in highly corrosive liquids. See pH limits below.\n\nThe pump is available for permanent installation in a sump or portable installation with hose connection and stand.\n\nIn some applications, the pump is also available for a dry stationary installation on a base stand directly connected to the inlet and outlet lines.\n\nFor further information on applications, contact your nearest Flygt representative.",
+    "token_count": 281,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "Application",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 16,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The pumps must not be used in highly corrosive liquids. See pH limits below. The pump is available for permanent installation in a sump or portable installation with hose connection and stand. In some applications, the pump is also available for a dry stationary installation on a base stand directly connected to the inlet and outlet lines. For further information on applications, contact your nearest Flygt representative.]\n\n## Specific technical data\n\nFor specific technical data regarding your pump, please see Parts List.",
+    "original_text": "## Specific technical data\n\nFor specific technical data regarding your pump, please see Parts List.",
+    "token_count": 99,
+    "pages": [
+      4
+    ],
+    "heading": "Specific technical data",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 17,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Specific technical data\n\nFor specific technical data regarding your pump, please see Parts List.]\n\n## PRODUCT DESCRIPTION",
+    "original_text": "## PRODUCT DESCRIPTION",
+    "token_count": 25,
+    "pages": [
+      4
+    ],
+    "heading": "PRODUCT DESCRIPTION",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 18,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## PRODUCT DESCRIPTION]\n\n## General technical data\n\nLiquid temperature: max. 40°C (104°F). If the pump is not equipped with cooling jacket, the pump can be operated at full load only if at least half the stator housing is submerged.\n\nThe pump can be equipped for operation at temperatures up to 90°C (195°F). At increased temperatures, the pump must be completely submerged when operated at full load.\n\nHigher temperatures than 40°C (104°F) are not permitted for Ex-approved pumps.\n\nLiquid density: max. 1100 kg/m 3 (9.2 lb per US gal.)\n\nThe pH of the pumped liquid: 5.5-14 (for cast iron pumps).\n\nThe pH of the pumped liquid: 3-14 (for stainless steel pumps).\n\nDepth of immersion: max. 20 m (65 ft).\n\n<!-- image -->\n\n- In some installations and at certain operating points on the performance curve, the noise level of 70 dB or the noise level specified for the actual pump may be exceeded.\n- Only Ex-approved pumps may be used in an explosive or flammable environment.",
+    "original_text": "## General technical data\n\nLiquid temperature: max. 40°C (104°F). If the pump is not equipped with cooling jacket, the pump can be operated at full load only if at least half the stator housing is submerged.\n\nThe pump can be equipped for operation at temperatures up to 90°C (195°F). At increased temperatures, the pump must be completely submerged when operated at full load.\n\nHigher temperatures than 40°C (104°F) are not permitted for Ex-approved pumps.\n\nLiquid density: max. 1100 kg/m 3 (9.2 lb per US gal.)\n\nThe pH of the pumped liquid: 5.5-14 (for cast iron pumps).\n\nThe pH of the pumped liquid: 3-14 (for stainless steel pumps).\n\nDepth of immersion: max. 20 m (65 ft).\n\n<!-- image -->\n\n- In some installations and at certain operating points on the performance curve, the noise level of 70 dB or the noise level specified for the actual pump may be exceeded.\n- Only Ex-approved pumps may be used in an explosive or flammable environment.",
+    "token_count": 233,
+    "pages": [
+      4
+    ],
+    "heading": "General technical data",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 19,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The pH of the pumped liquid: 3-14 (for stainless steel pumps). Depth of immersion: max. 20 m (65 ft). <!-- image -->\n\n- In some installations and at certain operating points on the performance curve, the noise level of 70 dB or the noise level specified for the actual pump may be exceeded. - Only Ex-approved pumps may be used in an explosive or flammable environment.]\n\n## Warranty claim\n\nFlygt pumps are high quality products with expected reliable operation and long life. However, should the need arise for a warranty claim, please contact your Flygt representative.\n\n<!-- PAGE 4 END -->",
+    "original_text": "## Warranty claim\n\nFlygt pumps are high quality products with expected reliable operation and long life. However, should the need arise for a warranty claim, please contact your Flygt representative.\n\n<!-- PAGE 4 END -->",
+    "token_count": 132,
+    "pages": [
+      4
+    ],
+    "heading": "Warranty claim",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 20,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Warranty claim\n\nFlygt pumps are high quality products with expected reliable operation and long life. However, should the need arise for a warranty claim, please contact your Flygt representative. <!-- PAGE 4 END -->]\n\n## Design\n\nThe pump is a submersible, electric motor-driven product.",
+    "original_text": "## Design\n\nThe pump is a submersible, electric motor-driven product.",
+    "token_count": 64,
+    "pages": [
+      5
+    ],
+    "heading": "Design",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 21,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Design\n\nThe pump is a submersible, electric motor-driven product.]\n\n## 1. Impeller\n\nThe pump is available with a wide range of impellers for different applications and capacities.",
+    "original_text": "## 1. Impeller\n\nThe pump is available with a wide range of impellers for different applications and capacities.",
+    "token_count": 44,
+    "pages": [
+      5
+    ],
+    "heading": "1. Impeller",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 22,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 1. Impeller\n\nThe pump is available with a wide range of impellers for different applications and capacities.]\n\n## 2. Shaft seals\n\nThe pump has two mechanical face seals - one inner and one outer, with an intermediate oil housing.",
+    "original_text": "## 2. Shaft seals\n\nThe pump has two mechanical face seals - one inner and one outer, with an intermediate oil housing.",
+    "token_count": 55,
+    "pages": [
+      5
+    ],
+    "heading": "2. Shaft seals",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 23,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 2. Shaft seals\n\nThe pump has two mechanical face seals - one inner and one outer, with an intermediate oil housing.]\n\n## 3. Shaft\n\nThe shaft is delivered with the rotor as an integral part. Shaft material: stainless steel or carbon steel.",
+    "original_text": "## 3. Shaft\n\nThe shaft is delivered with the rotor as an integral part. Shaft material: stainless steel or carbon steel.",
+    "token_count": 58,
+    "pages": [
+      5
+    ],
+    "heading": "3. Shaft",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 24,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3. Shaft\n\nThe shaft is delivered with the rotor as an integral part. Shaft material: stainless steel or carbon steel.]\n\n## 4. Bearings\n\nThe support bearing of the rotor consists of a singlerow roller bearing.\n\nThe main bearing of the rotor consists of a two-row angular contact ball bearing.",
+    "original_text": "## 4. Bearings\n\nThe support bearing of the rotor consists of a singlerow roller bearing.\n\nThe main bearing of the rotor consists of a two-row angular contact ball bearing.",
+    "token_count": 68,
+    "pages": [
+      5
+    ],
+    "heading": "4. Bearings",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 25,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 4. Bearings\n\nThe support bearing of the rotor consists of a singlerow roller bearing. The main bearing of the rotor consists of a two-row angular contact ball bearing.]\n\n## 5. Oil housing\n\nThe oil lubricates and cools the seals and acts as a buffer between the pump housing and the electric motor.",
+    "original_text": "## 5. Oil housing\n\nThe oil lubricates and cools the seals and acts as a buffer between the pump housing and the electric motor.",
+    "token_count": 71,
+    "pages": [
+      5
+    ],
+    "heading": "5. Oil housing",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 26,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 5. Oil housing\n\nThe oil lubricates and cools the seals and acts as a buffer between the pump housing and the electric motor.]\n\n## 6. Cooling\n\nThe stator is cooled by either the surrounding media or by forced circulation in a cooling jacket.",
+    "original_text": "## 6. Cooling\n\nThe stator is cooled by either the surrounding media or by forced circulation in a cooling jacket.",
+    "token_count": 59,
+    "pages": [
+      5
+    ],
+    "heading": "6. Cooling",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 27,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 6. Cooling\n\nThe stator is cooled by either the surrounding media or by forced circulation in a cooling jacket.]\n\n## 7. Motor\n\nSquirrel-cage 1-phase or 3-phase induction motor for 50 Hz or 60 Hz.\n\n<!-- image -->",
+    "original_text": "## 7. Motor\n\nSquirrel-cage 1-phase or 3-phase induction motor for 50 Hz or 60 Hz.\n\n<!-- image -->",
+    "token_count": 60,
+    "pages": [
+      5
+    ],
+    "heading": "7. Motor",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 28,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 7. Motor\n\nSquirrel-cage 1-phase or 3-phase induction motor for 50 Hz or 60 Hz. <!-- image -->]\n\n## GENERAL DESIGN OF A FLYGT PUMP\n\nThe motor can be started by direct on-line or stardelta starting.\n\nThe motor can be run continuously or intermittently with a maximum of 15 evenly spaced starts per hour.\n\nFlygt motors are tested in accordance with IEC 34-1.\n\nThe stator is insulated in accordance with class H (180°C, 360°F). The motor is designed to deliver its rated output at - 5% variation from the rated voltage. Without overheating the motor, - 10% variation from the rated voltage can be accepted provided that the motor does not run continuously at full load. The motor is designed to operate at a voltage imbalance of up to 2% between the phases.",
+    "original_text": "## GENERAL DESIGN OF A FLYGT PUMP\n\nThe motor can be started by direct on-line or stardelta starting.\n\nThe motor can be run continuously or intermittently with a maximum of 15 evenly spaced starts per hour.\n\nFlygt motors are tested in accordance with IEC 34-1.\n\nThe stator is insulated in accordance with class H (180°C, 360°F). The motor is designed to deliver its rated output at - 5% variation from the rated voltage. Without overheating the motor, - 10% variation from the rated voltage can be accepted provided that the motor does not run continuously at full load. The motor is designed to operate at a voltage imbalance of up to 2% between the phases.",
+    "token_count": 184,
+    "pages": [
+      5
+    ],
+    "heading": "GENERAL DESIGN OF A FLYGT PUMP",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 29,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The stator is insulated in accordance with class H (180°C, 360°F). The motor is designed to deliver its rated output at - 5% variation from the rated voltage. Without overheating the motor, - 10% variation from the rated voltage can be accepted provided that the motor does not run continuously at full load. The motor is designed to operate at a voltage imbalance of up to 2% between the phases.]\n\n## Monitoring equipment\n\nThe stator incorporates thermal contacts connected in series.\n\nThe pump can be equipped with sensors for sensing water in the oil* and/or stator housing.\n\n*Not applicable to Ex-approved pumps.\n\n<!-- PAGE 5 END -->",
+    "original_text": "## Monitoring equipment\n\nThe stator incorporates thermal contacts connected in series.\n\nThe pump can be equipped with sensors for sensing water in the oil* and/or stator housing.\n\n*Not applicable to Ex-approved pumps.\n\n<!-- PAGE 5 END -->",
+    "token_count": 139,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "Monitoring equipment",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 30,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Monitoring equipment\n\nThe stator incorporates thermal contacts connected in series. The pump can be equipped with sensors for sensing water in the oil* and/or stator housing. *Not applicable to Ex-approved pumps. <!-- PAGE 5 END -->]\n\n## Handling equipment\n\nLifting equipment is required for handling the pump.\n\n<!-- image -->\n\n- Stay clear of suspended loads.\n- Always lift the pump by its lifting handle - never by the motor cable or the hose.\n\nThe minimum height between the lifting hook and the floor shall be sufficient to lift the pump out of the sump.\n\nThe lifting equipment shall be able to hoist the pump straight up and down in the sump, preferably without the need for resetting the lifting hook.\n\nOversize lifting equipment could cause damage if the pump should stick when being lifted.\n\nMake sure that the lifting equipment is securely anchored.",
+    "original_text": "## Handling equipment\n\nLifting equipment is required for handling the pump.\n\n<!-- image -->\n\n- Stay clear of suspended loads.\n- Always lift the pump by its lifting handle - never by the motor cable or the hose.\n\nThe minimum height between the lifting hook and the floor shall be sufficient to lift the pump out of the sump.\n\nThe lifting equipment shall be able to hoist the pump straight up and down in the sump, preferably without the need for resetting the lifting hook.\n\nOversize lifting equipment could cause damage if the pump should stick when being lifted.\n\nMake sure that the lifting equipment is securely anchored.",
+    "token_count": 173,
+    "pages": [
+      6
+    ],
+    "heading": "Handling equipment",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 31,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: - Always lift the pump by its lifting handle - never by the motor cable or the hose. The minimum height between the lifting hook and the floor shall be sufficient to lift the pump out of the sump. The lifting equipment shall be able to hoist the pump straight up and down in the sump, preferably without the need for resetting the lifting hook. Oversize lifting equipment could cause damage if the pump should stick when being lifted. Make sure that the lifting equipment is securely anchored.]\n\n## General recommendations\n\nTo ensure proper installation, please see the dimensions on the dimensional drawing in the Parts List.\n\nNOTE! The end of the cable must not be submerged. It must be above flood level, as water may penetrate through the cable into the junction box or the motor.\n\nCheck that the lifting handle and chain are in good condition.\n\nFor automatic operation of the pump (level control), it is recommended that the level regulators be used at low voltage. The data sheet delivered with the regulators gives the permissible voltage. Local rules may specify otherwise.\n\nClean out all debris from the sump before the pump is lowered down and the station is started.\n\n<!-- image -->\n\nSpecial rules apply to installation in explosive atmosphere.\n\n- Intrinsically safe circuits are normally required (Ex i) for the automatic level control system by level regulators.\n- Minimum stop level should be according to the dimensional drawing.\n- The pump must never run dry.",
+    "original_text": "## General recommendations\n\nTo ensure proper installation, please see the dimensions on the dimensional drawing in the Parts List.\n\nNOTE! The end of the cable must not be submerged. It must be above flood level, as water may penetrate through the cable into the junction box or the motor.\n\nCheck that the lifting handle and chain are in good condition.\n\nFor automatic operation of the pump (level control), it is recommended that the level regulators be used at low voltage. The data sheet delivered with the regulators gives the permissible voltage. Local rules may specify otherwise.\n\nClean out all debris from the sump before the pump is lowered down and the station is started.\n\n<!-- image -->\n\nSpecial rules apply to installation in explosive atmosphere.\n\n- Intrinsically safe circuits are normally required (Ex i) for the automatic level control system by level regulators.\n- Minimum stop level should be according to the dimensional drawing.\n- The pump must never run dry.",
+    "token_count": 283,
+    "pages": [
+      6
+    ],
+    "heading": "General recommendations",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 32,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The data sheet delivered with the regulators gives the permissible voltage. Local rules may specify otherwise. Clean out all debris from the sump before the pump is lowered down and the station is started. <!-- image -->\n\nSpecial rules apply to installation in explosive atmosphere. - Intrinsically safe circuits are normally required (Ex i) for the automatic level control system by level regulators. - Minimum stop level should be according to the dimensional drawing. - The pump must never run dry.]\n\n## INSTALLATION",
+    "original_text": "## INSTALLATION",
+    "token_count": 99,
+    "pages": [
+      6
+    ],
+    "heading": "INSTALLATION",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 33,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## INSTALLATION]\n\n## Safety precautions\n\nIn order to minimize the risk of accidents in connection with the service and installation work, the following rules should be followed:\n\n11. Never work alone. Use a lifting harness, safety line and a respirator as required. Do not ignore the risk of drowning!\n12. Make sure there are no poisonous gases within the work area.\n13. Check the explosion risk before welding or using electric hand tools.\n14. Do not ignore health hazards. Observe strict cleanliness.\n15. Bear in mind the risk of electrical accidents.\n16. Make sure that the lifting equipment is in good condition.\n17. Provide a suitable barrier around the work area, e.g a guard rail.\n18. Make sure you have a clear path of retreat!\n19. Use safety helmet, safety goggles and protective shoes.\n10. All personnel who work with sewage systems must be vaccinated against diseases to which they may be exposed.\n11. A first-aid kit must be close at hand.\n12. Note that special rules apply to installation in explosive athmosphere.\n\nFollow all other health and safety rules and local codes and ordinances.\n\n<!-- PAGE 6 END -->\n\n<!-- image -->\n\n<!-- image -->",
+    "original_text": "## Safety precautions\n\nIn order to minimize the risk of accidents in connection with the service and installation work, the following rules should be followed:\n\n11. Never work alone. Use a lifting harness, safety line and a respirator as required. Do not ignore the risk of drowning!\n12. Make sure there are no poisonous gases within the work area.\n13. Check the explosion risk before welding or using electric hand tools.\n14. Do not ignore health hazards. Observe strict cleanliness.\n15. Bear in mind the risk of electrical accidents.\n16. Make sure that the lifting equipment is in good condition.\n17. Provide a suitable barrier around the work area, e.g a guard rail.\n18. Make sure you have a clear path of retreat!\n19. Use safety helmet, safety goggles and protective shoes.\n10. All personnel who work with sewage systems must be vaccinated against diseases to which they may be exposed.\n11. A first-aid kit must be close at hand.\n12. Note that special rules apply to installation in explosive athmosphere.\n\nFollow all other health and safety rules and local codes and ordinances.\n\n<!-- PAGE 6 END -->\n\n<!-- image -->\n\n<!-- image -->",
+    "token_count": 244,
+    "pages": [
+      6,
+      7
+    ],
+    "heading": "Safety precautions",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 34,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: 18. Make sure you have a clear path of retreat! 19. Use safety helmet, safety goggles and protective shoes. 10. All personnel who work with sewage systems must be vaccinated against diseases to which they may be exposed. 11. A first-aid kit must be close at hand. 12. Note that special rules apply to installation in explosive athmosphere. Follow all other health and safety rules and local codes and ordinances. <!-- PAGE 6 END -->\n\n<!-- image -->\n\n<!-- image -->]\n\n## ELECTRICAL CONNECTIONS\n\n- Before starting work on the pump, make sure that the pump and the control panel are isolated from the power supply and cannot be energized.\n- If the pump is equipped with automatic level control, there is a risk of sudden restart.\n- All electrical equipment must be earthed. This applies to both pump equipment and any monitoring equipment.\n\nFailure to heed this warning may cause a lethal accident. Make sure that the earth lead is correctly connected by testing it.",
+    "original_text": "## ELECTRICAL CONNECTIONS\n\n- Before starting work on the pump, make sure that the pump and the control panel are isolated from the power supply and cannot be energized.\n- If the pump is equipped with automatic level control, there is a risk of sudden restart.\n- All electrical equipment must be earthed. This applies to both pump equipment and any monitoring equipment.\n\nFailure to heed this warning may cause a lethal accident. Make sure that the earth lead is correctly connected by testing it.",
+    "token_count": 208,
+    "pages": [
+      7
+    ],
+    "heading": "ELECTRICAL CONNECTIONS",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 35,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## ELECTRICAL CONNECTIONS\n\n- Before starting work on the pump, make sure that the pump and the control panel are isolated from the power supply and cannot be energized. - If the pump is equipped with automatic level control, there is a risk of sudden restart. - All electrical equipment must be earthed. This applies to both pump equipment and any monitoring equipment. Failure to heed this warning may cause a lethal accident. Make sure that the earth lead is correctly connected by testing it.]\n\n## NOTE for Ex version\n\n- Electrical connections on the explosion-proof motor must be made by authorized personnel.\n\nFlygt disclaims all responsibility for work done by untrained, unauthorized personnel.\n\n- The pump may be used only in accordance with the approved motor data stated on the pump's plates.\n- Thermal contacts must be connected to protection circuit intended for that purpose according to the approval of the product.\n\nAll electrical work shall be carried out under the supervision of an authorized electrician.\n\nLocal codes and regulations shall be complied with.\n\nCheck on the data plate which voltage supply is valid for your pump.\n\nCheck that the main voltage and frequency agree with the specifications on the pump data plate.\n\nIf the pump can be connected to different voltages, the connected voltage is specified by a yellow sticker.\n\nConnect the motor cable to the starter equipment as illustrated in the wiring diagrams.",
+    "original_text": "## NOTE for Ex version\n\n- Electrical connections on the explosion-proof motor must be made by authorized personnel.\n\nFlygt disclaims all responsibility for work done by untrained, unauthorized personnel.\n\n- The pump may be used only in accordance with the approved motor data stated on the pump's plates.\n- Thermal contacts must be connected to protection circuit intended for that purpose according to the approval of the product.\n\nAll electrical work shall be carried out under the supervision of an authorized electrician.\n\nLocal codes and regulations shall be complied with.\n\nCheck on the data plate which voltage supply is valid for your pump.\n\nCheck that the main voltage and frequency agree with the specifications on the pump data plate.\n\nIf the pump can be connected to different voltages, the connected voltage is specified by a yellow sticker.\n\nConnect the motor cable to the starter equipment as illustrated in the wiring diagrams.",
+    "token_count": 273,
+    "pages": [
+      7
+    ],
+    "heading": "NOTE for Ex version",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 36,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: All electrical work shall be carried out under the supervision of an authorized electrician. Local codes and regulations shall be complied with. Check on the data plate which voltage supply is valid for your pump. Check that the main voltage and frequency agree with the specifications on the pump data plate. If the pump can be connected to different voltages, the connected voltage is specified by a yellow sticker. Connect the motor cable to the starter equipment as illustrated in the wiring diagrams.]\n\n## Conductors that are not in use must be isolated.\n\nThe cable should be replaced if the outer sheath is damaged. Contact a Flygt service shop.\n\nMake sure that the cable does not have any sharp bends and is not pinched.\n\nUnder no circumstances may the starter equipment be installed in the sump.\n\nNOTE! For safety reasons, the earth conductor should be approx. 50 mm (2.0\") longer than the phase conductors. If the motor cable is jerked loose by mistake, the earth conductor should be the last conductor to come loose from its terminal. This applies to both ends of the cable.\n\nThermal contacts are incorporated in the stator. The thermal contacts can be connected to max 250 V, breaking current max 4 A. Flygt recommends that they be connected to 24 V over separate fuses to protect the other automatic equipment.\n\nNOTE! If the pump optionally is equipped with thermistors in the stator winding, make sure that the thermistors are never exposed to voltages higher than 2.5 V. If the voltage exceeds this value, e.g. when the control circuit is being checked, the thermistors will be destroyed.\n\nMake sure that the pump is correctly earthed (grounded).\n\nWhen using a variable-frequency-drive (VFD) the shielded cable (type NSSHÖU.../3E+St) should be used. Contact your Flygt representive and ask your VFD-supplier for electrical limitations.\n\n<!-- PAGE 7 END -->",
+    "original_text": "## Conductors that are not in use must be isolated.\n\nThe cable should be replaced if the outer sheath is damaged. Contact a Flygt service shop.\n\nMake sure that the cable does not have any sharp bends and is not pinched.\n\nUnder no circumstances may the starter equipment be installed in the sump.\n\nNOTE! For safety reasons, the earth conductor should be approx. 50 mm (2.0\") longer than the phase conductors. If the motor cable is jerked loose by mistake, the earth conductor should be the last conductor to come loose from its terminal. This applies to both ends of the cable.\n\nThermal contacts are incorporated in the stator. The thermal contacts can be connected to max 250 V, breaking current max 4 A. Flygt recommends that they be connected to 24 V over separate fuses to protect the other automatic equipment.\n\nNOTE! If the pump optionally is equipped with thermistors in the stator winding, make sure that the thermistors are never exposed to voltages higher than 2.5 V. If the voltage exceeds this value, e.g. when the control circuit is being checked, the thermistors will be destroyed.\n\nMake sure that the pump is correctly earthed (grounded).\n\nWhen using a variable-frequency-drive (VFD) the shielded cable (type NSSHÖU.../3E+St) should be used. Contact your Flygt representive and ask your VFD-supplier for electrical limitations.\n\n<!-- PAGE 7 END -->",
+    "token_count": 400,
+    "pages": [
+      7
+    ],
+    "heading": "Conductors that are not in use must be isolated.",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 37,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: If the voltage exceeds this value, e.g. when the control circuit is being checked, the thermistors will be destroyed. Make sure that the pump is correctly earthed (grounded). When using a variable-frequency-drive (VFD) the shielded cable (type NSSHÖU.../3E+St) should be used. Contact your Flygt representive and ask your VFD-supplier for electrical limitations. <!-- PAGE 7 END -->]\n\n## ELECTRICAL CONNECTIONS\n\nRemember that the starting current in direct on-line starting can be up to six times higher than the rated current. Make sure that the fuses or circuit breakers are of the proper rating.\n\nThe Parts List gives rated current. Fuse rating and cable shall be selected in accordance with local rules and regulations. Note that with long cables, the voltage drop in the cable must be taken into consideration, since the motor's rated voltage is the voltage that is measured at the terminal board in the pump.\n\nThe overload protection (motor protection breaker) for direct on-line starting shall be set to the motor rated current as given on the data plate.\n\nCheck the phase sequence in the mains with the phase sequence indicator.\n\nIf intermittent operation is prescribed (see Data Plate), the pump shall be provided with control equipment that provides such operation.",
+    "original_text": "## ELECTRICAL CONNECTIONS\n\nRemember that the starting current in direct on-line starting can be up to six times higher than the rated current. Make sure that the fuses or circuit breakers are of the proper rating.\n\nThe Parts List gives rated current. Fuse rating and cable shall be selected in accordance with local rules and regulations. Note that with long cables, the voltage drop in the cable must be taken into consideration, since the motor's rated voltage is the voltage that is measured at the terminal board in the pump.\n\nThe overload protection (motor protection breaker) for direct on-line starting shall be set to the motor rated current as given on the data plate.\n\nCheck the phase sequence in the mains with the phase sequence indicator.\n\nIf intermittent operation is prescribed (see Data Plate), the pump shall be provided with control equipment that provides such operation.",
+    "token_count": 266,
+    "pages": [
+      8
+    ],
+    "heading": "ELECTRICAL CONNECTIONS",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 38,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The overload protection (motor protection breaker) for direct on-line starting shall be set to the motor rated current as given on the data plate. Check the phase sequence in the mains with the phase sequence indicator. If intermittent operation is prescribed (see Data Plate), the pump shall be provided with control equipment that provides such operation.]\n\n## Monitoring equipment\n\nA plate in the junction box shows if the pump is equipped with sensors.\n\nCLS-30 is a leakage sensor for sensing water in the oil housing and initiates an alarm when the oil contains 30% water. Oil change is recommended after the alarm. If the sensor initiates an alarm shortly after the oil is changed, contact your nearest Flygt representative. The CLS sensor is installed in the bearing housing and goes down into the oil housing. The sensor is not applicable to Ex-approved pumps.\n\n<!-- image -->\n\nCLS sensor body made of glass. Handle with care.\n\nThe FLS sensor consists of a small float switch for sensing water in the stator housing. Its design makes it suitable for pumps in vertical installations. The FLS sensor is installed in the bottom of the stator housing.\n\nThe two sensors, CLS and FLS, can be used in the same pump. They are connected in parallel. Follow the instructions for monitoring equipment.\n\nThe MiniCas II is a monitoring relay to which CLS and/or FLS are connected.\n\nCheck:\n\n- -signals and tripping function.\n- -that relays, lamps, fuses and connections are intact.\n\nReplace defective equipment.\n\n<!-- PAGE 8 END -->",
+    "original_text": "## Monitoring equipment\n\nA plate in the junction box shows if the pump is equipped with sensors.\n\nCLS-30 is a leakage sensor for sensing water in the oil housing and initiates an alarm when the oil contains 30% water. Oil change is recommended after the alarm. If the sensor initiates an alarm shortly after the oil is changed, contact your nearest Flygt representative. The CLS sensor is installed in the bearing housing and goes down into the oil housing. The sensor is not applicable to Ex-approved pumps.\n\n<!-- image -->\n\nCLS sensor body made of glass. Handle with care.\n\nThe FLS sensor consists of a small float switch for sensing water in the stator housing. Its design makes it suitable for pumps in vertical installations. The FLS sensor is installed in the bottom of the stator housing.\n\nThe two sensors, CLS and FLS, can be used in the same pump. They are connected in parallel. Follow the instructions for monitoring equipment.\n\nThe MiniCas II is a monitoring relay to which CLS and/or FLS are connected.\n\nCheck:\n\n- -signals and tripping function.\n- -that relays, lamps, fuses and connections are intact.\n\nReplace defective equipment.\n\n<!-- PAGE 8 END -->",
+    "token_count": 313,
+    "pages": [
+      8
+    ],
+    "heading": "Monitoring equipment",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 39,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The FLS sensor is installed in the bottom of the stator housing. The two sensors, CLS and FLS, can be used in the same pump. They are connected in parallel. Follow the instructions for monitoring equipment. The MiniCas II is a monitoring relay to which CLS and/or FLS are connected. Check:\n\n- -signals and tripping function. - -that relays, lamps, fuses and connections are intact. Replace defective equipment. <!-- PAGE 8 END -->]\n\n## CABLE CHART\n\n<!-- image -->",
+    "original_text": "## CABLE CHART\n\n<!-- image -->",
+    "token_count": 112,
+    "pages": [
+      9
+    ],
+    "heading": "CABLE CHART",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 40,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## CABLE CHART\n\n<!-- image -->]\n\n## Single-phase",
+    "original_text": "## Single-phase",
+    "token_count": 17,
+    "pages": [
+      9
+    ],
+    "heading": "Single-phase",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 41,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Single-phase]\n\n## SUBCAB/SUBCAB AWG***\n\n| Connection | Conductors |\n|--------------|--------------------|\n| starter | |\n| 1 | brown (red***) |\n| 2 | black (black***) |\n| 3 | blue (white***) |\n| Earth | yellow/green |\n| GC** | yellow |\n| T1* | black T1/orange*** |\n| T2* | black T2/blue*** |\n| Stator leads | |\n| U1 = red | U5 = red |\n| V1 = brown | V5 = brown |\n| W1 = yellow | W5 = yellow |\n| U2 = green | U6 = green |\n| V2 = blue | V6 = blue |\n| W2 = black | W6 = black |\n\n<!-- image -->",
+    "original_text": "## SUBCAB/SUBCAB AWG***\n\n| Connection | Conductors |\n|--------------|--------------------|\n| starter | |\n| 1 | brown (red***) |\n| 2 | black (black***) |\n| 3 | blue (white***) |\n| Earth | yellow/green |\n| GC** | yellow |\n| T1* | black T1/orange*** |\n| T2* | black T2/blue*** |\n| Stator leads | |\n| U1 = red | U5 = red |\n| V1 = brown | V5 = brown |\n| W1 = yellow | W5 = yellow |\n| U2 = green | U6 = green |\n| V2 = blue | V6 = blue |\n| W2 = black | W6 = black |\n\n<!-- image -->",
+    "token_count": 175,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "SUBCAB/SUBCAB AWG***",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 42,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "## 3-phase, direct-on-line starting",
+    "original_text": "## 3-phase, direct-on-line starting",
+    "token_count": 9,
+    "pages": [
+      9
+    ],
+    "heading": "3-phase, direct-on-line starting",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 43,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3-phase, direct-on-line starting]\n\n## SUBCAB/SUBCAB AWG***\n\n| Connection starter | Conductors | Conductors |\n|----------------------|--------------|--------------|\n| 1 | brown | (red***) |\n| 2 | blue | (white***) |\n| 3 | black | (black***) |\n| Earth | yellow/green | yellow/green |\n| GC** | yellow | yellow |\n| T1* | black | T1/orange*** |\n| T2* | black | T2/blue*** |",
+    "original_text": "## SUBCAB/SUBCAB AWG***\n\n| Connection starter | Conductors | Conductors |\n|----------------------|--------------|--------------|\n| 1 | brown | (red***) |\n| 2 | blue | (white***) |\n| 3 | black | (black***) |\n| Earth | yellow/green | yellow/green |\n| GC** | yellow | yellow |\n| T1* | black | T1/orange*** |\n| T2* | black | T2/blue*** |",
+    "token_count": 119,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "SUBCAB/SUBCAB AWG***",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 44,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n* Terminal for connection of thermal contacts in the motor and monitoring equipment.\n- ** GC = Ground Check\n\n*** SUBCAB/AWG\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 9 END -->",
+    "original_text": "## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n* Terminal for connection of thermal contacts in the motor and monitoring equipment.\n- ** GC = Ground Check\n\n*** SUBCAB/AWG\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 9 END -->",
+    "token_count": 84,
+    "pages": [
+      9
+    ],
+    "heading": "Stator leads",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 45,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n* Terminal for connection of thermal contacts in the motor and monitoring equipment. - ** GC = Ground Check\n\n*** SUBCAB/AWG\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables. <!-- PAGE 9 END -->]\n\n## CABLE CHART\n\n/MT49/MT48/MT48/MT48/MT54/MT97/MT120\n\n<!-- image -->",
+    "original_text": "## CABLE CHART\n\n/MT49/MT48/MT48/MT48/MT54/MT97/MT120\n\n<!-- image -->",
+    "token_count": 120,
+    "pages": [
+      10
+    ],
+    "heading": "CABLE CHART",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 46,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## CABLE CHART\n\n/MT49/MT48/MT48/MT48/MT54/MT97/MT120\n\n<!-- image -->]\n\n## 3-phase, direct-on-line starting ∆",
+    "original_text": "## 3-phase, direct-on-line starting ∆",
+    "token_count": 47,
+    "pages": [
+      10
+    ],
+    "heading": "3-phase, direct-on-line starting ∆",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 47,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3-phase, direct-on-line starting ∆]\n\n## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "original_text": "## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "token_count": 106,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "SUBCAB",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 48,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |]\n\n## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 10 END -->",
+    "original_text": "## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 10 END -->",
+    "token_count": 152,
+    "pages": [
+      10
+    ],
+    "heading": "Stator leads",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 49,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables. <!-- PAGE 10 END -->]\n\n## CABLE CHART\n\n<!-- image -->",
+    "original_text": "## CABLE CHART\n\n<!-- image -->",
+    "token_count": 71,
+    "pages": [
+      9
+    ],
+    "heading": "CABLE CHART",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 50,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## CABLE CHART\n\n<!-- image -->]\n\n## 3-phase, star-delta starting",
+    "original_text": "## 3-phase, star-delta starting",
+    "token_count": 23,
+    "pages": [
+      11
+    ],
+    "heading": "3-phase, star-delta starting",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 51,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3-phase, star-delta starting]\n\n## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "original_text": "## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "token_count": 104,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "SUBCAB",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 52,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## SUBCAB\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1 | black 1 |\n| 2 | black 2 |\n| 3 | black 3 |\n| 4 | black 4 |\n| 5 | black 5 |\n| 6 | black 6 |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |]\n\n## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n<!-- image -->",
+    "original_text": "## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n<!-- image -->",
+    "token_count": 133,
+    "pages": [
+      11
+    ],
+    "heading": "Stator leads",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 53,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\n<!-- image -->]\n\n## 3-phase, star-delta starting",
+    "original_text": "## 3-phase, star-delta starting",
+    "token_count": 52,
+    "pages": [
+      11
+    ],
+    "heading": "3-phase, star-delta starting",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 54,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3-phase, star-delta starting]\n\n## SUBCAB 1+2\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1/4 | brown |\n| 2/5 | blue |\n| 3/6 | black |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "original_text": "## SUBCAB 1+2\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1/4 | brown |\n| 2/5 | blue |\n| 3/6 | black |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |",
+    "token_count": 84,
+    "pages": [
+      1,
+      2
+    ],
+    "heading": "SUBCAB 1+2",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 55,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## SUBCAB 1+2\n\n| Connection starter | Conductors |\n|----------------------|--------------|\n| 1/4 | brown |\n| 2/5 | blue |\n| 3/6 | black |\n| Earth | yellow/green |\n| T1* | black T1 |\n| T2* | black T2 |]\n\n## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 11 END -->",
+    "original_text": "## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables.\n\n<!-- PAGE 11 END -->",
+    "token_count": 132,
+    "pages": [
+      11
+    ],
+    "heading": "Stator leads",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 56,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## Stator leads\n\nU1 = red\n\nV1 = brown\n\nW1 = yellow\n\nU2 = green\n\nV2 = blue\n\nW2 = black\n\nSUBCAB is a registered trademark of ITT Flygt AB for electrical cables. <!-- PAGE 11 END -->]\n\n## TRANSPORTATION AND STORAGE\n\nThe pump can be transported and stored in a vertical or horizontal position.\n\n<!-- image -->\n\n- Always lift the pump by its lifting handle - never by the motor cable or the hose.\n- Make sure that the pump cannot roll or fall over and injure people or damage property.\n\nThe pump is frostproof as long as it is operating or is immersed in the liquid. If the pump is raised when the temperature is below freezing, the impeller may freeze.\n\nA frozen impeller can be thawed by allowing the pump to stand immersed in the liquid for a short period before it is started. Never use a naked flame to thaw the pump.\n\nFor longer periods of storage, the pump must be protected against moisture and heat. The impeller should be rotated occasionally (for example every other month) to prevent the seals from sticking together.\n\nAfter a long period of storage, the pump should be inspected before it is taken into operation. Pay special attention to the seals and the cable entry.\n\nFollow the instructions under the heading 'Before starting'.\n\nThe pump shall be run for a short period after being raised in order to discharge all remaining water.",
+    "original_text": "## TRANSPORTATION AND STORAGE\n\nThe pump can be transported and stored in a vertical or horizontal position.\n\n<!-- image -->\n\n- Always lift the pump by its lifting handle - never by the motor cable or the hose.\n- Make sure that the pump cannot roll or fall over and injure people or damage property.\n\nThe pump is frostproof as long as it is operating or is immersed in the liquid. If the pump is raised when the temperature is below freezing, the impeller may freeze.\n\nA frozen impeller can be thawed by allowing the pump to stand immersed in the liquid for a short period before it is started. Never use a naked flame to thaw the pump.\n\nFor longer periods of storage, the pump must be protected against moisture and heat. The impeller should be rotated occasionally (for example every other month) to prevent the seals from sticking together.\n\nAfter a long period of storage, the pump should be inspected before it is taken into operation. Pay special attention to the seals and the cable entry.\n\nFollow the instructions under the heading 'Before starting'.\n\nThe pump shall be run for a short period after being raised in order to discharge all remaining water.",
+    "token_count": 295,
+    "pages": [
+      12
+    ],
+    "heading": "TRANSPORTATION AND STORAGE",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 57,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: For longer periods of storage, the pump must be protected against moisture and heat. The impeller should be rotated occasionally (for example every other month) to prevent the seals from sticking together. After a long period of storage, the pump should be inspected before it is taken into operation. Pay special attention to the seals and the cable entry. Follow the instructions under the heading 'Before starting'. The pump shall be run for a short period after being raised in order to discharge all remaining water.]\n\n## OPERATION\n\n<!-- image -->",
+    "original_text": "## OPERATION\n\n<!-- image -->",
+    "token_count": 109,
+    "pages": [
+      12
+    ],
+    "heading": "OPERATION",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 58,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## OPERATION\n\n<!-- image -->]\n\n## Before starting\n\n<!-- image -->\n\n- Before starting work on the pump, make sure that the pump is isolated from the power supply and cannot be energized.\n- Make sure that the pump cannot roll or fall over and injure people or damage property.\n\nCheck that the visible parts on the pump and installation are undamaged and in good condition.\n\nCheck the oil level in the oil housing.\n\nRemove the fuses or open the circuit breaker and check that the impeller can be rotated freely.\n\nCheck that the monitoring equipment (if any) works.\n\nCheck the direction of rotation. The impeller shall rotate clockwise, as viewed from above. When started, the pump will jerk in the opposite direction to the direction in which the impeller rotates. See the figure.\n\nIn the case of dry installation, check the direction of rotation through the inlet elbow access cover.\n\nTranspose two phase leads if the impeller rotates in the wrong direction (3 ~).\n\n<!-- image -->\n\nIn some installations the pump surface and the surrounding liquid may be hot. Bear in mind the risk of burn injuries.\n\n<!-- image -->\n\nWatch out for the starting jerk, which can be powerful.\n\n<!-- PAGE 12 END -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "original_text": "## Before starting\n\n<!-- image -->\n\n- Before starting work on the pump, make sure that the pump is isolated from the power supply and cannot be energized.\n- Make sure that the pump cannot roll or fall over and injure people or damage property.\n\nCheck that the visible parts on the pump and installation are undamaged and in good condition.\n\nCheck the oil level in the oil housing.\n\nRemove the fuses or open the circuit breaker and check that the impeller can be rotated freely.\n\nCheck that the monitoring equipment (if any) works.\n\nCheck the direction of rotation. The impeller shall rotate clockwise, as viewed from above. When started, the pump will jerk in the opposite direction to the direction in which the impeller rotates. See the figure.\n\nIn the case of dry installation, check the direction of rotation through the inlet elbow access cover.\n\nTranspose two phase leads if the impeller rotates in the wrong direction (3 ~).\n\n<!-- image -->\n\nIn some installations the pump surface and the surrounding liquid may be hot. Bear in mind the risk of burn injuries.\n\n<!-- image -->\n\nWatch out for the starting jerk, which can be powerful.\n\n<!-- PAGE 12 END -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->",
+    "token_count": 255,
+    "pages": [
+      12,
+      13
+    ],
+    "heading": "Before starting",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 59,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: See the figure. In the case of dry installation, check the direction of rotation through the inlet elbow access cover. Transpose two phase leads if the impeller rotates in the wrong direction (3 ~). <!-- image -->\n\nIn some installations the pump surface and the surrounding liquid may be hot. Bear in mind the risk of burn injuries. <!-- image -->\n\nWatch out for the starting jerk, which can be powerful. <!-- PAGE 12 END -->\n\n<!-- image -->\n\n<!-- image -->\n\n<!-- image -->]\n\n## CARE AND MAINTENANCE\n\nBefore starting work on the pump, make sure that the pump is isolated from the power supply and cannot be energized.\n\nThis applies to the control circuit as well.",
+    "original_text": "## CARE AND MAINTENANCE\n\nBefore starting work on the pump, make sure that the pump is isolated from the power supply and cannot be energized.\n\nThis applies to the control circuit as well.",
+    "token_count": 142,
+    "pages": [
+      13
+    ],
+    "heading": "CARE AND MAINTENANCE",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 60,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## CARE AND MAINTENANCE\n\nBefore starting work on the pump, make sure that the pump is isolated from the power supply and cannot be energized. This applies to the control circuit as well.]\n\n## NOTE for Ex version\n\nAll work on the explosion-proof motor section must be performed by personnel authorized by Flygt.\n\nFlygt disclaims all responsibility for work done by untrained, unauthorized personnel.\n\nMake sure that the pump cannot roll or fall over and injure people or damage property.\n\nThe following points are important in connection with work on the pump:\n\n- -Make sure that the pump has been thoroughly cleaned.\n- -Beware of the risk of infection.\n- -Follow local safety regulations.\n\nThe pump is designed for use in liquids which can be hazardous to health. In order to prevent injury to the eyes and skin, observe the following points when working on the pump:\n\n- -Always wear goggles and rubber gloves.\n- -Rinse the pump thoroughly with clean water before starting work.\n- -Rinse the components in water after dismantling.\n- -The oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter.\n\nProceed as follows if hazardous chemicals have splashed into your eyes:\n\n- -Rinse your eyes immediately in running water for 15 minutes. Hold your eyelids apart with your fingers.\n- -Contact an eye specialist.\n\nOn your skin:\n\n- -Remove contaminated clothes.\n- -Wash your skin with soap and water.\n- -Seek medical attention, if required.",
+    "original_text": "## NOTE for Ex version\n\nAll work on the explosion-proof motor section must be performed by personnel authorized by Flygt.\n\nFlygt disclaims all responsibility for work done by untrained, unauthorized personnel.\n\nMake sure that the pump cannot roll or fall over and injure people or damage property.\n\nThe following points are important in connection with work on the pump:\n\n- -Make sure that the pump has been thoroughly cleaned.\n- -Beware of the risk of infection.\n- -Follow local safety regulations.\n\nThe pump is designed for use in liquids which can be hazardous to health. In order to prevent injury to the eyes and skin, observe the following points when working on the pump:\n\n- -Always wear goggles and rubber gloves.\n- -Rinse the pump thoroughly with clean water before starting work.\n- -Rinse the components in water after dismantling.\n- -The oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter.\n\nProceed as follows if hazardous chemicals have splashed into your eyes:\n\n- -Rinse your eyes immediately in running water for 15 minutes. Hold your eyelids apart with your fingers.\n- -Contact an eye specialist.\n\nOn your skin:\n\n- -Remove contaminated clothes.\n- -Wash your skin with soap and water.\n- -Seek medical attention, if required.",
+    "token_count": 310,
+    "pages": [
+      13
+    ],
+    "heading": "NOTE for Ex version",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 61,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: - -The oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter. Proceed as follows if hazardous chemicals have splashed into your eyes:\n\n- -Rinse your eyes immediately in running water for 15 minutes. Hold your eyelids apart with your fingers. - -Contact an eye specialist. On your skin:\n\n- -Remove contaminated clothes. - -Wash your skin with soap and water. - -Seek medical attention, if required.]\n\n## Inspection\n\nRegular inspection and preventive maintenance ensure more reliable operation.\n\nThe pump should be inspected at least once a year, but more frequently under severe operating conditions.\n\nUnder normal operating conditions, the pump should have a major overhaul in a service shop at least every third year for permanent installation and every year for portable pumps. This requires special tools and should be done by an authorized service shop.\n\nIf the seals have been replaced an inspection of the oil is recommended after one week of operation.\n\nNOTE! Regular check of the condition of the lifting handle and chain is important.",
+    "original_text": "## Inspection\n\nRegular inspection and preventive maintenance ensure more reliable operation.\n\nThe pump should be inspected at least once a year, but more frequently under severe operating conditions.\n\nUnder normal operating conditions, the pump should have a major overhaul in a service shop at least every third year for permanent installation and every year for portable pumps. This requires special tools and should be done by an authorized service shop.\n\nIf the seals have been replaced an inspection of the oil is recommended after one week of operation.\n\nNOTE! Regular check of the condition of the lifting handle and chain is important.",
+    "token_count": 211,
+    "pages": [
+      13
+    ],
+    "heading": "Inspection",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 62,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: The pump should be inspected at least once a year, but more frequently under severe operating conditions. Under normal operating conditions, the pump should have a major overhaul in a service shop at least every third year for permanent installation and every year for portable pumps. This requires special tools and should be done by an authorized service shop. If the seals have been replaced an inspection of the oil is recommended after one week of operation. NOTE! Regular check of the condition of the lifting handle and chain is important.]\n\n## Inspection of hot water applications\n\nPumps in hot water applications shall undergo inspection or overhaul at a service shop as follows, depending on the time they have been submerged in the hot water:\n\n| Temp. | Mode of operation | Inspection | Shop overhaul |\n|-----------------|---------------------|----------------|-----------------|\n| < _70°C (160°F) | Continuous | 1000 hours | 4000 hours |\n| < _70°C (160°F) | Intermittent | twice a year | once a year |\n| < _90°C (195°F) | Cont./Int. | 6 times a year | twice a year |\n\n<!-- PAGE 13 END -->",
+    "original_text": "## Inspection of hot water applications\n\nPumps in hot water applications shall undergo inspection or overhaul at a service shop as follows, depending on the time they have been submerged in the hot water:\n\n| Temp. | Mode of operation | Inspection | Shop overhaul |\n|-----------------|---------------------|----------------|-----------------|\n| < _70°C (160°F) | Continuous | 1000 hours | 4000 hours |\n| < _70°C (160°F) | Intermittent | twice a year | once a year |\n| < _90°C (195°F) | Cont./Int. | 6 times a year | twice a year |\n\n<!-- PAGE 13 END -->",
+    "token_count": 240,
+    "pages": [
+      13
+    ],
+    "heading": "Inspection of hot water applications",
+    "has_tables": true,
+    "has_figures": false,
+    "chunk_index": 63,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: | Mode of operation | Inspection | Shop overhaul |\n|-----------------|---------------------|----------------|-----------------|\n| < _70°C (160°F) | Continuous | 1000 hours | 4000 hours |\n| < _70°C (160°F) | Intermittent | twice a year | once a year |\n| < _90°C (195°F) | Cont./Int. | 6 times a year | twice a year |\n\n<!-- PAGE 13 END -->]\n\n## OIL CHANGE\n\nA check of the condition of the oil can show whether there has been leakage. Note! Air/oil mixture can be confused with water/oil mixture.\n\nInsert a tube (or hose) into the oil hole. Cover the top end of the tube and take up a little oil from the bottom.\n\nChange the oil if it contains too much water, i.e. if it is heavily emulsified (cream-like), or if the oil housing contains free water. Check again one week after changing the oil.\n\n<!-- image -->\n\nThe oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter.",
+    "original_text": "## OIL CHANGE\n\nA check of the condition of the oil can show whether there has been leakage. Note! Air/oil mixture can be confused with water/oil mixture.\n\nInsert a tube (or hose) into the oil hole. Cover the top end of the tube and take up a little oil from the bottom.\n\nChange the oil if it contains too much water, i.e. if it is heavily emulsified (cream-like), or if the oil housing contains free water. Check again one week after changing the oil.\n\n<!-- image -->\n\nThe oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter.",
+    "token_count": 230,
+    "pages": [
+      14
+    ],
+    "heading": "OIL CHANGE",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 64,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: Insert a tube (or hose) into the oil hole. Cover the top end of the tube and take up a little oil from the bottom. Change the oil if it contains too much water, i.e. if it is heavily emulsified (cream-like), or if the oil housing contains free water. Check again one week after changing the oil. <!-- image -->\n\nThe oil housing may be under pressure. Hold a rag over the oil screw to prevent splatter.]\n\n## 3126 / 3140 / 3152\n\n1. Suspend the pump horizontally from an overhead crane.\n2. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole. Turn the pump so that the oil hole faces downwards. It is easier to drain the oil if the oil hole screw 'oil in' is also removed.\n\n<!-- image -->",
+    "original_text": "## 3126 / 3140 / 3152\n\n1. Suspend the pump horizontally from an overhead crane.\n2. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole. Turn the pump so that the oil hole faces downwards. It is easier to drain the oil if the oil hole screw 'oil in' is also removed.\n\n<!-- image -->",
+    "token_count": 184,
+    "pages": [
+      14
+    ],
+    "heading": "3126 / 3140 / 3152",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 65,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3126 / 3140 / 3152\n\n1. Suspend the pump horizontally from an overhead crane. 2. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole. Turn the pump so that the oil hole faces downwards. It is easier to drain the oil if the oil hole screw 'oil in' is also removed. <!-- image -->]\n\n## 3170 / 3201 / 3300\n\n1. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole.\n2. Pump out the oil. Using the oil drainage pump 83 95 42 or an equivalent pump. Make sure that the suction tube goes all the way down to the oil housing bottom.\n\n<!-- image -->",
+    "original_text": "## 3170 / 3201 / 3300\n\n1. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole.\n2. Pump out the oil. Using the oil drainage pump 83 95 42 or an equivalent pump. Make sure that the suction tube goes all the way down to the oil housing bottom.\n\n<!-- image -->",
+    "token_count": 177,
+    "pages": [
+      14
+    ],
+    "heading": "3170 / 3201 / 3300",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 66,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: ## 3170 / 3201 / 3300\n\n1. Unscrew the oil housing screw marked 'oil out'. Emptying the oil must be done through the 'oil out' hole. 2. Pump out the oil. Using the oil drainage pump 83 95 42 or an equivalent pump. Make sure that the suction tube goes all the way down to the oil housing bottom. <!-- image -->]\n\n## 3126 / 3140 / 3152 / 3170 / 3201 / 3300\n\n3. Install the 'oil out' screw and fill with oil through the other hole. It is important that the oil be added through the hole marked 'oil in' since the oil housing must contain some air for pressure equalization. A paraffin oil with viscosity close to ISO VG15 (e.g. Mobile Whiterex 309) is recommended. The pump is delivered from the factory with this type of oil. In applications where poisonous properties are of less concern, a mineral oil with viscosity up to ISO VG32 can be used.\n\nPlease see Parts List for the correct volume and tightening torque.\n\n4. Always replace the O-rings under the oil housing screws with new ones.\n\n<!-- PAGE 14 END -->",
+    "original_text": "## 3126 / 3140 / 3152 / 3170 / 3201 / 3300\n\n3. Install the 'oil out' screw and fill with oil through the other hole. It is important that the oil be added through the hole marked 'oil in' since the oil housing must contain some air for pressure equalization. A paraffin oil with viscosity close to ISO VG15 (e.g. Mobile Whiterex 309) is recommended. The pump is delivered from the factory with this type of oil. In applications where poisonous properties are of less concern, a mineral oil with viscosity up to ISO VG32 can be used.\n\nPlease see Parts List for the correct volume and tightening torque.\n\n4. Always replace the O-rings under the oil housing screws with new ones.\n\n<!-- PAGE 14 END -->",
+    "token_count": 259,
+    "pages": [
+      14
+    ],
+    "heading": "3126 / 3140 / 3152 / 3170 / 3201 / 3300",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 67,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  },
+  {
+    "chunk_text": "...[Previous context: A paraffin oil with viscosity close to ISO VG15 (e.g. Mobile Whiterex 309) is recommended. The pump is delivered from the factory with this type of oil. In applications where poisonous properties are of less concern, a mineral oil with viscosity up to ISO VG32 can be used. Please see Parts List for the correct volume and tightening torque. 4. Always replace the O-rings under the oil housing screws with new ones. <!-- PAGE 14 END -->]\n\n## SERVICE LOG\n\n<!-- PAGE 15 END -->\n\nwww.flygt.com\n\n<!-- image -->\n\n<!-- PAGE 16 END -->",
+    "original_text": "## SERVICE LOG\n\n<!-- PAGE 15 END -->\n\nwww.flygt.com\n\n<!-- image -->\n\n<!-- PAGE 16 END -->",
+    "token_count": 127,
+    "pages": [
+      15,
+      16
+    ],
+    "heading": "SERVICE LOG",
+    "has_tables": false,
+    "has_figures": false,
+    "chunk_index": 68,
+    "source_file": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials",
+    "equipment_type": "Submersible Pump",
+    "make": "Flygt",
+    "model": "Series 3126",
+    "equipment_filename": "flygt_3126~3140~3152~3170~3201~3300_installation_care_and_maintenance-full-with-serials.md"
+  }
+]
