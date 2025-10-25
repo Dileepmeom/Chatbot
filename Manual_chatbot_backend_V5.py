@@ -24,8 +24,7 @@ from pathlib import Path
 from typing import List, Dict, Any, Optional
 
 from langchain.docstore.document import Document
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.chat_models import ChatOllama
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
 from config import CHROMA_DB_DIR as CONFIG_CHROMA_DB_DIR
@@ -244,8 +243,12 @@ class EquipmentChatbot:
         
         self.session_manager = SessionManager()
         
-        # Initialize LLM (using Ollama llama3.1 model - same as V4.2)
-        self.llm = ChatOllama(model="llama3.1", temperature=0.1)
+        # Initialize LLM (using OpenAI gpt-4o-mini model)
+        self.llm = ChatOpenAI(
+            model="gpt‑5‑nano",
+            temperature=0.1,
+            openai_api_key=OPENAI_API_KEY
+        )
         
         # Create prompt template (exact same as V4.2)
         self.equipment_aware_template = """
@@ -295,8 +298,12 @@ Answer:
             # Prepare context (same as V4.2)
             context = "\n\n".join(doc.page_content for doc in docs)
             
-            # Create a temporary LLM with the specified temperature (same as V4.2)
-            temp_llm = ChatOllama(model="llama3.1", temperature=temperature)
+            # Create a temporary LLM with the specified temperature
+            temp_llm = ChatOpenAI(
+                model="gpt-4o-mini",
+                temperature=temperature,
+                openai_api_key=os.getenv("OPENAI_API_KEY")
+            )
             
             # Create chain and generate response (same approach as V4.2)
             chain = self.prompt_template | temp_llm

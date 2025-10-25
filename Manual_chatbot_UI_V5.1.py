@@ -658,7 +658,7 @@ def render_welcome_message():
     st.markdown(welcome_content, unsafe_allow_html=True)
 
 
-def render_source_card_in_column(source: Dict, col):
+def render_source_card_in_column(source: Dict, col, unique_suffix: str = ""):
     """Render a single source card in a Streamlit column with PDF viewer functionality."""
     with col:
         # Determine relevance class (same thresholds as V4.2)
@@ -680,8 +680,8 @@ def render_source_card_in_column(source: Dict, col):
         equipment_info = f"{source.get('make', 'Unknown')} {source.get('model', 'Unknown')}"
         equipment_type = source.get('equipment_type', 'Unknown')
         
-        # Create unique key for this source card
-        card_key = f"pdf_btn_{hash(str(source))}"
+        # Create unique key for this source card using unique suffix to avoid duplicates
+        card_key = f"pdf_btn_{hash(str(source))}_{unique_suffix}"
         
         # Source card content (exactly same as V4.2)
         st.markdown(f"""
